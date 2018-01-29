@@ -1,3 +1,7 @@
+body {
+	margin: 0px;
+}
+
 img {
 	width: 450px;
 	height: 300px;
@@ -22,4 +26,6 @@ h1 {
 	border-right: 2px solid black;
 	width: 400px;
 	text-align: center;
+	box-shadow: 5px 5px 5px #000005;
+	margin-top: 10px;
 }
